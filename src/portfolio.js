@@ -12,7 +12,7 @@ const greeting = {
     "University Student Majoring in Computer Science. Passionate Software Developer 🚀  and Data Science/Machine Learning 🤖 enthusiast. "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1YqSW3ai4gnAlGWjyuOFlWVd8shQaH-Wu/view?usp=sharing",
 };
 
 // Your Social Media Link
