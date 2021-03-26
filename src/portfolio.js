@@ -174,13 +174,6 @@ const bigProjects = {
     "The following are all personal projects. Click on any picture and be taken to an example or source code.",
   projects: [
     {
-      title: "Brainstack",
-      image: require("./assets/images/bstack.png"),
-      link: "brainstack.so",
-      description:
-        "Blog built using Ruby on Rails, HTML, CSS and Javascript. Features include OAuth, custom markdown CMS to write articles, and responsive CSS. ",
-    },
-    {
       title: "Focusbyte",
       image: require("./assets/images/pomo.png"),
       link: "focusbyte.io",
